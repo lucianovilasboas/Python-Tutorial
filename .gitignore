@@ -1,0 +1,6 @@
+_*.txt
+_*.py
+.env
+__pycache__
+W3S_python_Index.md
+.ipynb_checkpoints
